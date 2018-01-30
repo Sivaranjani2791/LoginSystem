@@ -1,5 +1,5 @@
 Running from JSP
-<form action="login" method="post">
+<form action="../login" method="post">
    <table>
    <tr>
       <td><font face="verdana" size="2px">Name:</font></td>
